@@ -1,9 +1,8 @@
-# Hi, I'm Lothar &nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/lwieske/logo/main/cropped-logo96px.png"/>
-
-[Impressum / Legal Notice](https://github.com/lwieske/Impressum/)
+# Hi, I'm Lothar - ( [Impressum / Legal Notice](https://github.com/lwieske/Impressum/) )
 
 <p vertical-align: middle>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Sustainable_Development_Goal_13Climate.svg" height="96"/>
+    &nbsp;
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" height="96"/>
 </p>
 
